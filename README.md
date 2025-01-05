@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukumar&label=Profile%20views&color=0e75b6&style=flat" alt="sukumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sukutwitter" target="blank"><img src="https://img.shields.io/twitter/follow/sukutwitter?logo=twitter&style=for-the-badge" alt="sukutwitter" /></a> </p>
-<img src="https://img.shields.io/clojars/dt/:clojar/"/>
-
+<object link="https://img.shields.io/clojars/dt/:clojar"/>
 - 🔭 I’m currently working on **Portfoli**
 
 - 🌱 I’m currently learning **microservices**
